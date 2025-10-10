@@ -38,4 +38,5 @@
     echo $objek->printNama("Budi")."<br>";
     $objek->printUmur(18);
     $objek->printPekerjaan();
+
 ?>
